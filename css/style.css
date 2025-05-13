@@ -1,0 +1,12 @@
+.box{
+    overflow: hidden;
+    height: 100vh;
+    background-color: red;
+}
+.item{
+    float: left;
+    box-sizing: border-box;
+    width: 50%;
+    height: 100%;
+    border: 10px solid black;
+}
